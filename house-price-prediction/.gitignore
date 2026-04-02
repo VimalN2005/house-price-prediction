@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+data/train.csv
+data/test.csv
+models/*.pkl
+.DS_Store
